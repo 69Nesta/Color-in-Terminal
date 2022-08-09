@@ -6,6 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Romeo PETIT <romeo@whatsweb.fr>",
-  "license": "ISC"
+  "author": {
+    "name": "Romeo PETIT <romeo@whatsweb.fr>",
+    "url": "https://github.com/69Nesta"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/69Nesta/Color-in-Terminal",
+  "keywords": [
+    "console",
+    "cli",
+    "command",
+    "color",
+    "in",
+    "couleur",
+    "terminal",
+    "npm"
+  ]
 }

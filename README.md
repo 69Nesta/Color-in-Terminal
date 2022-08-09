@@ -20,6 +20,7 @@ console.log(`${Color.Underscore}${Color.FgCyan}Task:${Color.Reset}${Color.FgGree
 
 #### Output :
 ![](https://media.discordapp.net/attachments/876815323549028392/1006618717544787978/Capture_decran_2022-08-09_a_20.43.15.png)
+
 ## Documentation
 
 ```javascript
@@ -67,4 +68,3 @@ console.log(`
 ## Authors
 
 - [@69Nesta](https://www.github.com/69Nesta)
-
