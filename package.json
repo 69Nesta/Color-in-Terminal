@@ -1,6 +1,6 @@
 {
   "name": "color-in-terminal",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Color in terminal",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,12 @@
     "cli",
     "command",
     "color",
+    "colour",
+    "colors",
     "in",
     "couleur",
     "terminal",
-    "npm"
+    "npm",
+    "log"
   ]
 }
