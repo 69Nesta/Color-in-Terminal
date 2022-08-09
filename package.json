@@ -1,0 +1,11 @@
+{
+  "name": "color-in-terminal",
+  "version": "1.0.3",
+  "description": "Color in terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romeo PETIT <romeo@whatsweb.fr>",
+  "license": "ISC"
+}
