@@ -1,6 +1,6 @@
-## Deployment
+## Usage
 
-To deploy this project run
+To use this project run
 
 ```bash
   npm i color-in-terminal
